@@ -1,4 +1,8 @@
-włóż do folderu %appdata%/.minecraft/resourcepacks/
+[ włóż do folderu %appdata%/.minecraft/resourcepacks/ ] 
+
+
+
+
 
 nie cheatuj bo wstyd :/
 
